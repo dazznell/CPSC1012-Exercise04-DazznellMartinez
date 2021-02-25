@@ -1,0 +1,12 @@
+/Users/dazznell/Projects/CPSC1012-Exercise04-DazznellMartinez/CPSC1012-Exercise04-DazznellMartinez/bin/Debug/netcoreapp3.1/CPSC1012-Exercise04-DazznellMartinez.deps.json
+/Users/dazznell/Projects/CPSC1012-Exercise04-DazznellMartinez/CPSC1012-Exercise04-DazznellMartinez/bin/Debug/netcoreapp3.1/CPSC1012-Exercise04-DazznellMartinez.runtimeconfig.json
+/Users/dazznell/Projects/CPSC1012-Exercise04-DazznellMartinez/CPSC1012-Exercise04-DazznellMartinez/bin/Debug/netcoreapp3.1/CPSC1012-Exercise04-DazznellMartinez.runtimeconfig.dev.json
+/Users/dazznell/Projects/CPSC1012-Exercise04-DazznellMartinez/CPSC1012-Exercise04-DazznellMartinez/bin/Debug/netcoreapp3.1/CPSC1012-Exercise04-DazznellMartinez.dll
+/Users/dazznell/Projects/CPSC1012-Exercise04-DazznellMartinez/CPSC1012-Exercise04-DazznellMartinez/bin/Debug/netcoreapp3.1/CPSC1012-Exercise04-DazznellMartinez.pdb
+/Users/dazznell/Projects/CPSC1012-Exercise04-DazznellMartinez/CPSC1012-Exercise04-DazznellMartinez/obj/Debug/netcoreapp3.1/CPSC1012-Exercise04-DazznellMartinez.csprojAssemblyReference.cache
+/Users/dazznell/Projects/CPSC1012-Exercise04-DazznellMartinez/CPSC1012-Exercise04-DazznellMartinez/obj/Debug/netcoreapp3.1/CPSC1012-Exercise04-DazznellMartinez.AssemblyInfoInputs.cache
+/Users/dazznell/Projects/CPSC1012-Exercise04-DazznellMartinez/CPSC1012-Exercise04-DazznellMartinez/obj/Debug/netcoreapp3.1/CPSC1012-Exercise04-DazznellMartinez.AssemblyInfo.cs
+/Users/dazznell/Projects/CPSC1012-Exercise04-DazznellMartinez/CPSC1012-Exercise04-DazznellMartinez/obj/Debug/netcoreapp3.1/CPSC1012-Exercise04-DazznellMartinez.csproj.CoreCompileInputs.cache
+/Users/dazznell/Projects/CPSC1012-Exercise04-DazznellMartinez/CPSC1012-Exercise04-DazznellMartinez/obj/Debug/netcoreapp3.1/CPSC1012-Exercise04-DazznellMartinez.dll
+/Users/dazznell/Projects/CPSC1012-Exercise04-DazznellMartinez/CPSC1012-Exercise04-DazznellMartinez/obj/Debug/netcoreapp3.1/CPSC1012-Exercise04-DazznellMartinez.pdb
+/Users/dazznell/Projects/CPSC1012-Exercise04-DazznellMartinez/CPSC1012-Exercise04-DazznellMartinez/obj/Debug/netcoreapp3.1/CPSC1012-Exercise04-DazznellMartinez.genruntimeconfig.cache
